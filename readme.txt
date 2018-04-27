@@ -11,5 +11,3 @@ The folder of "supporting_data" is for the data of the JGR_Biogeoscience manuscr
 4. Monthly outputs of the river discharge in the North Canadian Watershed were used to generate Figure S4 in the Supplementary Information. 
 
 5. Monthly outputs of GPP and ET from TEM-HD 2L at the ARC and WLR sites were used to generate Figure 2 in the main text. 
-
-6
