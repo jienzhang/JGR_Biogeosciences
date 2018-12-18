@@ -1,4 +1,4 @@
-The folder of "supporting_data" is for the data of the JGR_Biogeoscience manuscript "Projected effects of climate warming and elevated CO2 on the carbon balance of tall-grassland ecosystems in the Central Great Plains, USA".
+The folder of "supporting_data" is for the data of the JGR_Biogeoscience manuscript "Projected effects of climate warming and elevated CO2 on the carbon balance of tall-grassland ecosystems in the Central Great Plains, USA". 
 
 1. Monthly outputs of GPP, evapotranspiration (ET), NEP, heterotrophic respiration (RH), autotrophic respiration (including growth and maintenance respirations, RVGRWTH and RVMAINT), soil evaporation (PESOIL), surface runoff (RUNOFFS),
    soil moisture for the upper and lower layers (SMOIST and SMOISTLL), and the soil organic carbon (SOLC) from TEM-HD 2L are included. These data were used to generate Figure 3, 4, 5, 6, 7, 8 in the main text and Figure S7 in the 
